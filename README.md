@@ -1,12 +1,11 @@
 ### Hi there 👋🏾  welcome to my Github! 👋
 
-<p align="left">
+<p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### xing.org1^
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, JavaScript
 -  **Hobbies :** Articles & Music :headphones:
