@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=xingorg1&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️ From [Isha Gupta](https://github.com/Isha2103)
+⭐️ From [Isha Gupta](https://github.com/xingorg1)
 
 
