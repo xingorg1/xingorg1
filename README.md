@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### xing.org1^
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, JavaScript
@@ -28,10 +29,3 @@ Here are some ideas to get you started:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xingorg1&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-⭐️ From [Isha Gupta](https://github.com/xingorg1)
-
-
