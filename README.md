@@ -6,7 +6,9 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
+
+<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="120">
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, JavaScript
@@ -15,9 +17,8 @@
 -  **Organisation :** JD
 
 
-<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="120">
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xingorg1&show_icons=true)
 
