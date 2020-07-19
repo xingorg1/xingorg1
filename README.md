@@ -1,4 +1,4 @@
-### xing.org1^ 👋
+### Hi there 👋🏾  welcome to my Github! 👋
 
 <!--
 **xingorg1/xingorg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### xing.org1^
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, JavaScript
 -  **Hobbies :** Articles & Music :headphones:
