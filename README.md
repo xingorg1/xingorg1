@@ -6,9 +6,6 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-
-<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
@@ -16,6 +13,9 @@
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organisation :** JD
+
+
+<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="120">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
