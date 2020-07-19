@@ -1,8 +1,13 @@
 ### Hi there 👋  welcome to my Github!
 
+🎉 Welcome to my GitHub profile!
+
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
