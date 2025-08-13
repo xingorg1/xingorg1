@@ -7,7 +7,7 @@
     <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
   </p>
   <p>
-    <img src="https://github.com/xingorg1/leetcodeRank/blob/main/ME1755066676602.jpg">
+    <img src="https://github.com/xingorg1/leetcodeRank/blob/main/ME1755066676602.jpg" width="120">
   </p>
 </div>
 
