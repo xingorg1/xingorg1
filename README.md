@@ -9,7 +9,6 @@
 
 ----
 
-<img src="https://github.com/xingorg1/xingorg1/blob/master/ME1755066676602.jpg" align="right" width="120">
 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="120">
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
@@ -21,6 +20,7 @@
 
 
 ----
+<img src="https://github.com/xingorg1/xingorg1/blob/master/ME1755066676602.jpg" align="right" height="190">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xingorg1&show_icons=true)
 
