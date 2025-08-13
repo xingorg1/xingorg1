@@ -2,12 +2,14 @@
 
 🎉 Welcome to my GitHub profile!
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-<p>
-  <img src="https://github.com/xingorg1/leetcodeRank/blob/main/ME1755066676602.jpg">
-</p>
+<div style="display: flex; align-items: center; justify-content: center;gap: 20px;">
+  <p align="center">
+    <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  </p>
+  <p>
+    <img src="https://github.com/xingorg1/leetcodeRank/blob/main/ME1755066676602.jpg">
+  </p>
+</div>
 
 ----
 
